@@ -1,3 +1,6 @@
+ #Write a shell script that computes the gross salary of a employee according to the following
+# 1.if basic salary is<1500 then HRA 10% of the basic and DA=90% of the basic
+# 2.if basic salary id>=1500 then HRA 500 and DA=98% of the basic
  echo "enter the basic salary:"
 read bsal
 if [ $bsal -lt 1500 ]
