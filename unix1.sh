@@ -1,3 +1,4 @@
+#create marklist of all students in a class and store values in different files with register no as the name of the file.
 echo "enter no. of students"
 read n
 for (( i=1; i<=n ; i++ ))
