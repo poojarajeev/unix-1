@@ -1,3 +1,4 @@
+#Write a shell script that accept two file names and check if both exists.If the second filename exists,then the contents ofthe first filename should be appended to it
 echo "enter the file name 1"
 read a
 echo "enter second file name"
